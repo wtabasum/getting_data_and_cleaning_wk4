@@ -79,5 +79,5 @@ unzip(zipfile = "./getcleandata/projectdataset.zip", exdir = "./getcleandata")
         # 5.2 Writing second tidy data set into a txt file
         write.table(tidySet, "tidySet.txt", row.names = FALSE)
         
-        # added this line to learn github rep for test
+  
         
